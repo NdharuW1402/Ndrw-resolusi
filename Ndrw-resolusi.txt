@@ -1,8 +1,5 @@
 Resolusi 2024
 - konsisten belajar coding minimal 1 jam sehari
-- belajar HTML dasar
-- belajar CSS dasar
-- belajar JavaScript dasar
 - belajar framework CSS
 - belajar framework JS
 - belajar Hosting
