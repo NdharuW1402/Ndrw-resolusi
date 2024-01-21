@@ -2,8 +2,10 @@ Rencana Frameworks
 -tailwind CSS
 -bootstrap CSS
   * pembuatan portfolio dan undangan
+   + Boleh saja
+   + lebih simple
 -node JS
   * lebih bnayak digunakan
 -react JS
   *sedang hype
--belajar PHP
+
