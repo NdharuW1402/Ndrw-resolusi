@@ -9,3 +9,4 @@ Rencana Frameworks
 -react JS
   *sedang hype
 -belajar PHP
+-belajar python
