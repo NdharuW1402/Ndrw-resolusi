@@ -9,3 +9,4 @@ Resolusi 2024
 - belajar Frontend dan Backend WebDev
 - pengembangan etealh belajar dan ambil project pertama
 - konsisten membaca dokumentasi
+- mempunyai web dengan domain sendiri
