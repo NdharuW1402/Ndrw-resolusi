@@ -6,3 +6,4 @@ Rencana Frameworks
   * lebih bnayak digunakan
 -react JS
   *sedang hype
+-belajar PHP
